@@ -9,6 +9,7 @@
         <module>code_review_interface</module>
         <module>code_review_domain</module>
         <module>code_review_infrastructure</module>
+        <module>code_review_starter</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
